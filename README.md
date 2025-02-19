@@ -1,10 +1,6 @@
 # PDFNote
 
 <p align="center">
-  <img src="path_to_your_logo.png" alt="PDFNote Logo" width="200"/>
-</p>
-
-<p align="center">
   <a href="https://vuejs.org/"><img src="https://img.shields.io/badge/vue-3.x-brightgreen.svg" alt="Vue 3"></a>
   <a href="https://element-plus.org/"><img src="https://img.shields.io/badge/element--plus-2.x-blue.svg" alt="Element Plus"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License"></a>
